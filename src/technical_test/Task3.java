@@ -47,8 +47,9 @@ public class Task3 {
                 // If there is a house, try to place a tank first on the right between the house and the next house
                 if (i + 1 < n && S.charAt(i + 1) == '-') {
                     tanks++;
-                    // Move past the house and the tank we just placed
-                    i += 2;
+                    // Move past the house, the tank we just placed and the next place, because the tank could be
+                    // between two houses.
+                    i += 3;
                 } else if (i - 1 >= 0 && S.charAt(i - 1) == '-') {
                     // If there is no place to put a tank on the right, put it on the left
                     tanks++;
