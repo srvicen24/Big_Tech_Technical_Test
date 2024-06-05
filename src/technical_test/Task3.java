@@ -17,8 +17,6 @@ water tanks can be represented as "-HTHHT-", where 'T' denotes a water tank.
 
 Write a function:
 
-java
-Copiar código
 class Solution { public int solution(String S); }
 that, given a string S of length N, returns the minimum number of water tanks needed.
 

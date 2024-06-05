@@ -21,8 +21,6 @@ Seven operations were required to reduce the value of V to 0.
 
 Write a function:
 
-java
-Copiar código
 class Solution { public int solution(String S); }
 that, given a string S consisting of N characters containing a binary representation of the initial value V, returns
 the number of operations after which its value will become 0.

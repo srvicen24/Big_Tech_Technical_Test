@@ -3,16 +3,12 @@ package technical_test;
 /*
 You are given an implementation of a function:
 
-java
-Copiar código
 class Solution { public boolean solution(int[] A, int K); }
 This function, given a non-empty array A of N integers (sorted in non-decreasing order) and integer K, checks whether
  A contains numbers 1 to K (every number from 1 to K at least once) and no other numbers.
 
 For example, given the following array A, and K = 3:
 
-css
-Copiar código
 A[0] = 1
 A[1] = 1
 A[2] = 2
@@ -22,8 +18,6 @@ The function should return true.
 
 For the following array A, and K = 2:
 
-css
-Copiar código
 A[0] = 1
 A[1] = 1
 A[2] = 3
