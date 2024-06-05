@@ -1,4 +1,4 @@
-package test;
+package technical_test;
 
 /*
 You are given an implementation of a function:

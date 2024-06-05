@@ -1,4 +1,4 @@
-package test;
+package technical_test;
 
 /*
 You are given a string S of length N which encodes a non-negative number V in a binary form. Two types of operations

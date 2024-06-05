@@ -1,4 +1,4 @@
-package test;
+package technical_test;
 
 /*
 Today our world is approaching an ecological crisis. Due to global warming, the sea level is rising. At the same
