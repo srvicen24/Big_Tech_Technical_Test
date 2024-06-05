@@ -1,4 +1,4 @@
-// you can also use imports, for example:
+package demo;// you can also use imports, for example:
 // import java.util.*;
 
 // you can write to stdout for debugging purposes, e.g.
@@ -9,7 +9,7 @@ This is a demo task.
 
 Write a function:
 
-class Solution { public int solution(int[] A); }
+class demo.Solution { public int solution(int[] A); }
 
 that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A.
 
